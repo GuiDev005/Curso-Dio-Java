@@ -1,8 +1,6 @@
-package Contabanco;
-
 import java.util.Scanner;
 
-public class ContaTerminal{
+public class ContaTerminal1{
     public static void main(String[] args ) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Por favor, digite o número da Conta:");
